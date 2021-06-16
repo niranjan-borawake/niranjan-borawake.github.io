@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <div
+    class="page"
+  >
+    <div
+      class="lines"
+    >
+      <section>
+        <br />
+        <br />
+        Wed Jun 16 2021
+        <br />
+        <br />
+        Hello there.
+        <br />
+        <br />
+        Welcome to my page.
+        <br />
+        <br />
+        I'm not sure how you got here, but please allow me to introduce myself while you're here.
+        <br />
+        <br />
+        My name is Niranjan. I have over ten years of web development experience. I've created projects using jQuery, BackboneJS, d3, AngularJS, and React. Needless to say, without the fundamentals of HTML, CSS, and JavaScript, none of this would have been possible.
+        <br />
+        <br />
+        I tweet random thoughts 
+        <a
+          href="https://twitter.com/niranjandb"
+          rel="noreferrer"
+          target="_blank"
+        >
+          @niranjandb
+        </a>
+        , and when those thoughts mature, I turn them into 
+        <a
+          href="https://blog.niranjanborawake.in/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          blog posts
+        </a>
+        .
+        <br />
+        <br />
+        I enjoy playing carom, and watching movies.
+        <br />
+        <br />
+        Try out a 
+        <a
+          href="https://www.niranjanborawake.in/fifteen/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          simple game
+        </a>
+         I built before you leave.
+        <br />
+        <br />
+        Thank you very much.
+        <br />
+        Borawake, Niranjan
+        <br />
+        <br />
+        <br />
+        <br />
+      </section>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,41 @@
+ @font-face{
+  font-family: 'Shadows Into Light Two';
+  src: url('ShadowsIntoLightTwo-Regular.ttf');
+} 
+
+.page {
+  font-family: 'Shadows Into Light Two', cursive;
+  width: 100vw;
+  height: auto;
+  min-height: 100vh;
+  position: relative;
+  background-color: white;
+}
+
+.page::before {
+  content: '';
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 10vw;
+  background-color: rgba(255,0,0,0.7);
+}
+
+.lines {
+  height: auto;
+  min-height: 100vh;
+  background-image: repeating-linear-gradient(white 0px, white 24px, teal 25px);
+}
+
+
+section {
+    padding-top: 5px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    margin: 0 5vw 0 15vw;
+    width: 80vw;
+    user-select: none;
+    max-width: 700px;
+}
